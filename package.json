@@ -1,0 +1,22 @@
+{
+  "name": "companysurvey",
+  "version": "1.0.0",
+  "description": "Survey for companies to help fix the pay gap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNewsome/companysurvey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LNewsome/companysurvey/issues"
+  },
+  "homepage": "https://github.com/LNewsome/companysurvey#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": []
+}
